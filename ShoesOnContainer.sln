@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{C6389BA3-BB0D-471C-9CD9-D18B77364616}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E77B36DD-226E-448A-BAF2-4981475203C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{4528723E-C7DE-48C0-8BDA-31FF3763EA96}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E77B36DD-226E-448A-BAF2-4981475203C5} = {C6389BA3-BB0D-471C-9CD9-D18B77364616}
+		{4528723E-C7DE-48C0-8BDA-31FF3763EA96} = {C6389BA3-BB0D-471C-9CD9-D18B77364616}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4AD730-453B-425D-9665-B3E8E5F7D1A2}
+	EndGlobalSection
+EndGlobal
